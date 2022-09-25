@@ -1,0 +1,38 @@
+.min-flex{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    width: 40%;
+    
+}
+
+.card-body{
+    background-color: rgb(4, 4, 58);
+}
+/*ESTILOS DE BOTONES*/
+.botonNumero{
+    background-color: dimgray;
+    color: azure;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    
+}
+
+.botonIgual{
+    background-color: rgb(170, 143, 76);
+    color: dimgray;
+    margin-top: 3px;
+    margin-bottom: 3px;
+   
+}
+
+.botonOperacion{
+    background-color: darkslategray;
+    color: azure;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    
+}
